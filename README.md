@@ -1,6 +1,6 @@
-# Magento 2 Custom Carrier Trackers
+# Magento 2 Shipping Rules
 
-***[Magento 2 Custom Carrier Trackers](https://meetanshi.com/magento-2-shipping-rules.html)***  lets admin create flexible shipping rules based on the product attributes and shipping cart attributes.
+***[Magento 2 Shipping Rules](https://meetanshi.com/magento-2-shipping-rules.html)***  lets admin create flexible shipping rules based on the product attributes and shipping cart attributes.
 
 Default Magento does not allow to configure flexible shipping rules. E-commerce business demands to configure shipping rules based on attributes of the products, cart, delivery, etc. So, Meetanshi has developed Magento 2 Shipping Rules extension to let the Magento 2 store admin implement custom shipping rules.
 
