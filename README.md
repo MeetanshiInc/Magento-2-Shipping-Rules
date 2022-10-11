@@ -30,7 +30,7 @@ Create an unlimited number of shipping rules with Magento 2 Shipping Rules. Offe
 
 * Define rules using product conditions and condition combinations.
 
-For more information, visit [https://meetanshi.com/magento-2-shipping-rules.html](https://meetanshi.com/magento-2-shipping-rules.html)
+For more information, visit ***[https://meetanshi.com/magento-2-shipping-rules.html](https://meetanshi.com/magento-2-shipping-rules.html)***
 
 
 
